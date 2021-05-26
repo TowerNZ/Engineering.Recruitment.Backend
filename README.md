@@ -1,9 +1,9 @@
-# Backend
-Create an API to receive the data captured in the frontend.
+# Assignment
+Create an API to receive the data captured in the frontend assignment.
 
 We recommend using C#, .Net Core, and WebAPI to build this API.
 
-## Specification
+## Spec
 - Inputs:
     - Name (any alphanumeric character - maximum 50)
     - Credit card needs to be numeric and be in the valid credit cards storage
@@ -35,5 +35,8 @@ Please commit frequently to communicate your throughts while working on this ass
 ## Duration
 Use about 2 hours on this assignment. You are expected to complete most of what is defined in the specification section also considering the things we value.
 
-## Tech
+## Tools & Tech
 - API following the REST standards
+
+# Submitting Assignment
+Feel free to create a public GitHub repo or private GitHub repo where you invite runekr. He can give access to the right people.
