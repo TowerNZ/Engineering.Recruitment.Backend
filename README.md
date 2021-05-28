@@ -1,5 +1,5 @@
 # Assignment
-Create an API to receive the data captured in the frontend assignment.
+Create an API to receive the data captured in the frontend assignment. You may not have to complete the frontend assignment unless explicitly told so.
 
 We recommend using C#, .Net Core, and WebAPI to build this API.
 
