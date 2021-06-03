@@ -33,7 +33,7 @@ Please commit frequently to communicate your throughts while working on this ass
 - API documentation for consumers
 
 ## Duration
-Use about 2 hours on this assignment. You are expected to complete most of what is defined in the specification section also considering the things we value.
+Use about 4 hours on this assignment unless you are doing the frontend test as well - then 2 hours is sufficient. It is up to you two decided how you best spend your time.
 
 ## Tools & Tech
 - API following the REST standards
