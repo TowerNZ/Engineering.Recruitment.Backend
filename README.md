@@ -1,5 +1,5 @@
 # Assignment
-Create an API to receive the data captured in the frontend assignment. You may not have to complete the frontend assignment unless explicitly told so. The frontend test can be found [here](https://github.com/TowerNZ/Engineering.Recruitment.Frontend)
+Create an API to receive the data captured in the frontend assignment. You may not have to complete the frontend assignment unless explicitly told so. The frontend assignment can be found [here](https://github.com/TowerNZ/Engineering.Recruitment.Frontend)
 
 We recommend using C#, .Net, and WebAPI to build this API.
 
